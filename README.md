@@ -551,9 +551,6 @@ When creating or rescheduling sessions, the system checks for:
 
 ---
 
-## Screenshots
-
-> *Screenshots can be added here showing the various screens of the application.*
 
 ### Login Screen
 Premium dark-themed login with animated gradient background, glassmorphism card, and role-based routing.
